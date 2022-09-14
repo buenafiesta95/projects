@@ -1,0 +1,42 @@
+EXECUTIVE DASHBOARD
+
+Executive Dashboard = Used by Leaders
+Simple type of dashboard from a layout and content perspective
+
+The goal is typically to convey a few key metrics with just enough 
+detail to provide a story but not enough to drown the viewer.
+
+Exploratory interactivity is not usually necessary
+
+They don't have the time to do their own digging but a limited 
+amount of control can make it very engaging.
+
+Another point to consider is the frequency with which the dashboard will be viewed.
+
+The higher level executives will likely be more interested with longer term trends 
+and periodic updates
+
+leaving the execution in day to day management in their team's hands.
+This means that they'll probably not be viewing the dashboard very frequently which 
+in turn means we should make the interface as simple and self-explanatory as possible.
+
+We want our audience to get it without having to first read instructions or learn an interface.
+
+If they access the dashboard say monthly they'll have forgotten the instructions from last time and
+will have to relearn.
+
+STRATEGIC DASHBOARD
+
+Waterfall Charts
+
+Waterfall charts are useful for showing how parts contrubute to a whole when there are negative values
+Create a waterfall chart using Gantt chart type and a negative calculated field as the size
+
+Show a dynamic reference line by using a parameter or calculation on a parameter
+
+Heat Maps
+
+Heat maps quickly highlight patterns and outliers over multiple fields or dimensions
+
+Build a heat map by dragging your discrete dimensions (For example, categoriy and Region) 
+to the rows and columns shelves. Then drag your measure, like profit, to color and size
